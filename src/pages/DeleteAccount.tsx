@@ -28,7 +28,7 @@ export default function DeleteAccount() {
           <ul>
             <li><strong>In the app:</strong> Go to Profile → Delete Account (when this option is available).</li>
             <li><strong>By email:</strong> Send an email to{' '}
-              <a href="mailto:support@aqoonmaal.com" className="text-indigo-600 hover:underline">support@aqoonmaal.com</a>{' '}
+              <a href="mailto:ismailbulbul381@gmail.com" className="text-indigo-600 hover:underline">ismailbulbul381@gmail.com</a>{' '}
               with the subject line <strong>“Delete my account”</strong> and the email address you used to sign up. We will process your request within 30 days.
             </li>
           </ul>
@@ -42,7 +42,7 @@ export default function DeleteAccount() {
         <section>
           <h2>Contact</h2>
           <p>
-            For account deletion or other requests: <a href="mailto:support@aqoonmaal.com" className="text-indigo-600 hover:underline">support@aqoonmaal.com</a>.
+            For account deletion or other requests: <a href="mailto:ismailbulbul381@gmail.com" className="text-indigo-600 hover:underline">ismailbulbul381@gmail.com</a>.
           </p>
         </section>
       </article>

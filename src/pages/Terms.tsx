@@ -72,7 +72,7 @@ export default function Terms() {
         <section>
           <h2>Contact</h2>
           <p>
-            For questions about these terms: <a href="mailto:support@aqoonmaal.com" className="text-indigo-600 hover:underline">support@aqoonmaal.com</a>.
+            For questions about these terms: <a href="mailto:ismailbulbul381@gmail.com" className="text-indigo-600 hover:underline">ismailbulbul381@gmail.com</a>.
           </p>
         </section>
       </article>

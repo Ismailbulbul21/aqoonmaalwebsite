@@ -53,7 +53,7 @@ export default function DataSafety() {
         <section>
           <h2>Contact</h2>
           <p>
-            Questions about data safety: <a href="mailto:support@aqoonmaal.com" className="text-indigo-600 hover:underline">support@aqoonmaal.com</a>.
+            Questions about data safety: <a href="mailto:ismailbulbul381@gmail.com" className="text-indigo-600 hover:underline">ismailbulbul381@gmail.com</a>.
           </p>
         </section>
       </article>

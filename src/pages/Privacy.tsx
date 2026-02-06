@@ -106,7 +106,7 @@ export default function Privacy() {
           <h2>Contact</h2>
           <p>
             For privacy requests, questions, or complaints, contact us at:{' '}
-            <a href="mailto:support@aqoonmaal.com" className="text-indigo-600 hover:underline">support@aqoonmaal.com</a>.
+            <a href="mailto:ismailbulbul381@gmail.com" className="text-indigo-600 hover:underline">ismailbulbul381@gmail.com</a>.
           </p>
         </section>
       </article>
